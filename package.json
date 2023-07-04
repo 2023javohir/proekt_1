@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "i18next-browser-languagedetector": "^7.0.1",
+    "react-multi-carousel": "^2.8.3"
+  }
+}
